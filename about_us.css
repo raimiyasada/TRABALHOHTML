@@ -1,10 +1,10 @@
 .about_us{
-    background-image: url('..//Imagens/2.png');
+    background-image: url('2.png');
     background-size: cover;
     height: 100%;
 }
 .sobre3{
-    background-image: url("../Imagens/3.png");
+    background-image: url("3.png");
     background-size: cover;
     height: 100%;
 }
