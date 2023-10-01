@@ -1,6 +1,6 @@
 .notícia{
    
-    background-image: url("../Imagens/5f.png");
+    background-image: url("5f.png");
     background-size: cover;
     height: 100%;
  }
@@ -11,7 +11,7 @@
  }
  .contato{
     
-     background-image: url("../Imagens/6new.png");
+     background-image: url("6new.png");
      background-size: cover;
      height: 100%;
  }
