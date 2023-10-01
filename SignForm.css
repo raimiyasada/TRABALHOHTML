@@ -3,7 +3,7 @@
 body{
    margin: 0%;
     padding: 0%;
-    background-image: url('..//Imagens/backgroud\ cinza\ claro.png');
+    background-image: url('backgroud\ cinza\ claro.png');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: sans-serif;
@@ -15,7 +15,7 @@ body{
 }
 @media screen and (max-width: 1850px) {
     body{
-     background-image: url('..//Imagens/backgroundMobile.jpg');
+     background-image: url('backgroundMobile.jpg');
      
     }
     
