@@ -17,7 +17,7 @@ nav a{
     font-size: 20px;
     text-decoration: none;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 600px;
     position: fixed;
 }
 nav ul{
@@ -66,4 +66,7 @@ background-image: url(..//Imagens/backgroud\ cinza\ claro.png);
     margin-left: 3;
     margin-top: 4;
     justify-content: center;
+}
+.Soc-Icon{
+    position: relative;
 }

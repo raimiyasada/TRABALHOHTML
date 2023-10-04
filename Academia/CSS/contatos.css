@@ -25,13 +25,15 @@
     text-decoration: none;
     font-size: 2rem;
     box-sizing: 1,2rem;
-    background-color:rgb(145, 177, 82);
     box-shadow: 0 4px 4px black;
     transition: 1s;
 }
+#tiktok{
+    color: black;
+}
 
 .Soc-Icon:hover{
-    background-color:rgb(69, 102, 4);
+    background-color:rgb(201, 113, 113);
     /*transform: translateY(-15%);para fazer ele sube um pouco*/
 }
 .firstpart a{
