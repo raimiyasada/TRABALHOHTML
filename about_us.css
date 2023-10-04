@@ -1,0 +1,35 @@
+.about_us{
+    background-image: url('2.png');
+    background-size: cover;
+    height: 100%;
+}
+.sobre3{
+    background-image: url("3.png");
+    background-size: cover;
+    height: 100%;
+}
+.about_us #startdabout{
+   /* border: solid rgb(230, 18, 117);*/
+
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 200px;
+    
+}
+#about_us p{
+    color: white;
+    justify-content: center;
+    text-align: center;
+   position: relative;
+   font-size: 1.4em;
+}
+.restabout{
+   /* border: solid rgb(230, 18, 117);*/
+    width: 350px;
+    height: 250px;
+    position: relative;
+    left: 550px;
+    top: -75px;
+   
+}

@@ -1,0 +1,180 @@
+
+
+body{
+   margin: 0%;
+    padding: 0%;
+    background-image: url('backgroud\ cinza\ claro.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    font-size: 1em;
+    color:#090909;
+    margin-left: 3;
+    margin-top: 4;
+    justify-content: center;;
+}
+@media screen and (max-width: 1850px) {
+    body{
+     background-image: url('backgroundMobile.jpg');
+     
+    }
+    
+    }
+      
+nav{
+    width: 100%;
+    height: 25vh;
+    color: green;
+    position: fixed;
+}
+/*nav a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: fixed;
+}*/
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f0f8ff;
+    background:#CEE161;
+    height: 50%;
+    width: 96,50%;
+    list-style-type: none;
+    border-radius: 1%;
+    position: relative;
+    top: -55px;
+}
+
+#LoginForm{
+    position: relative;
+    border: solid rgb(34, 32, 32);
+    width: 36%;
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20vh;   
+}
+@media screen and (min-width: 1850px) {
+    #LoginForm{
+        width: 16%;
+        height: 2px;
+        padding: 10px;
+        margin: auto;
+        margin-top: 1vh;   
+    }
+
+}
+#nome{
+    width: 371px;
+    height: 20px;
+    border-radius: 16px;
+}
+#email{
+    height: 20px;
+    border-radius: 16px;
+}
+#sign-title{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    border-radius: 16px;
+   
+}
+#ltel{
+    position: relative;
+    left: 200px;
+    top: -44px;
+    height: 20px;
+    border-radius: 16px;
+}
+#lsex{
+    position: relative;
+    top: -20px;  
+    border-radius: 16px; 
+}
+#ssex{
+    position: relative;
+    top: -20px; 
+    width: 175px;
+    height: 20px; 
+    height: 26px;  
+    border-radius: 16px;  
+}
+#lcivil{
+    position: relative;
+    top: -64px;
+    left: 200px;
+    width: 171px;
+    height: 26px;  
+    border-radius: 16px; 
+}
+#nascimento{
+    position: relative;
+    top: -40px;
+    width: 170px;
+    height: 23px; 
+    border-radius: 16px;  
+}
+#country{
+    position: relative;
+    top: -85px;
+    left: 198px;
+    width: 171px;
+    height: 26px; 
+    border-radius: 16px;  
+}
+#race{
+    position: relative;
+    top: -60px;
+    width: 172px;
+    height: 26px;  
+    border-radius: 16px; 
+}
+#foto{
+    position: relative;
+    top: -97px;
+    left: 200px;   
+   
+}
+.btns{
+    position: relative;
+    top: -50px;
+}
+
+#backbtn{
+position: relative;
+left: 5px;
+padding: 8px;
+border-radius: 6px;
+color:white;
+background-color:rgb(145, 177, 82);
+}
+#savebtn{
+    position: relative;
+    right:-350px;
+    padding: 8px;
+    border-radius: 6px;
+    color:white;
+    background-color:rgb(145, 177, 82);
+}
+ #backbtn:hover{
+    color: black;
+    background:rgb(69, 102, 4);
+}
+#savebtn:hover{
+    color: black;
+    background:rgb(69, 102, 4);
+}
+.Soc-Icon{
+    position: relative;
+    
+}
+
+
+
+
